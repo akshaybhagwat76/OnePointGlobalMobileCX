@@ -1,0 +1,144 @@
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\OnePointGlobal.dll.config
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\OnePointGlobal.dll
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\OnePointGlobal.pdb
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\Microsoft.Owin.dll
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\Microsoft.Owin.Security.dll
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\Microsoft.Owin.Security.OAuth.dll
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\Microsoft.Web.Infrastructure.dll
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\Newtonsoft.Json.dll
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\Owin.dll
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Net.Http.Formatting.dll
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.Helpers.dll
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.Http.dll
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.Http.Owin.dll
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.Http.WebHost.dll
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.Razor.dll
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.WebPages.Deployment.dll
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.WebPages.dll
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.WebPages.Razor.dll
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\Microsoft.Owin.xml
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\Microsoft.Owin.Security.xml
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\Microsoft.Owin.Security.OAuth.xml
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\Newtonsoft.Json.xml
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Net.Http.Formatting.xml
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.Helpers.xml
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.Http.xml
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.Http.Owin.xml
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.Http.WebHost.xml
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.Razor.xml
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.WebPages.xml
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.WebPages.Deployment.xml
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.WebPages.Razor.xml
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\obj\Debug\OnePointGlobal.dll
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\obj\Debug\OnePointGlobal.pdb
+F:\akshay bhagwat\joseph\jsinfotechs\jsinfotechs\jsinfotechs\obj\Debug\OnePointGlobal.csprojResolveAssemblyReference.cache
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\OnePointGlobal.dll.config
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\OnePointGlobal.dll
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\OnePointGlobal.pdb
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\Microsoft.Owin.dll
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\Microsoft.Owin.Security.dll
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\Newtonsoft.Json.dll
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\Owin.dll
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Net.Http.Formatting.dll
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.Helpers.dll
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.Http.dll
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.Http.Owin.dll
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.Http.WebHost.dll
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.Razor.dll
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.WebPages.dll
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.WebPages.Razor.dll
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\Microsoft.Owin.xml
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\Microsoft.Owin.Security.xml
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\Newtonsoft.Json.xml
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Net.Http.Formatting.xml
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.Helpers.xml
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.Http.xml
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.Http.Owin.xml
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.Http.WebHost.xml
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.Razor.xml
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.WebPages.xml
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\bin\System.Web.WebPages.Razor.xml
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\obj\Debug\OnePointGlobal.dll
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\obj\Debug\OnePointGlobal.pdb
+C:\Users\Akshay\Downloads\jsinfotechs\jsinfotechs\jsinfotechs\obj\Debug\OnePointGlobal.csprojResolveAssemblyReference.cache
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\OnePointGlobal.dll.config
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\OnePointGlobal.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\OnePointGlobal.pdb
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\Microsoft.Owin.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\Microsoft.Owin.Security.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\Microsoft.Owin.Security.OAuth.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\Microsoft.Web.Infrastructure.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\Newtonsoft.Json.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\Owin.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\System.Net.Http.Formatting.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\System.Web.Helpers.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\System.Web.Http.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\System.Web.Http.Owin.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\System.Web.Http.WebHost.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\System.Web.Razor.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\System.Web.WebPages.Deployment.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\System.Web.WebPages.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\System.Web.WebPages.Razor.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\Microsoft.Owin.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\Microsoft.Owin.Security.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\Microsoft.Owin.Security.OAuth.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\Newtonsoft.Json.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\System.Net.Http.Formatting.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\System.Web.Helpers.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\System.Web.Http.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\System.Web.Http.Owin.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\System.Web.Http.WebHost.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\System.Web.Razor.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\System.Web.WebPages.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\System.Web.WebPages.Deployment.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\bin\System.Web.WebPages.Razor.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\obj\Debug\OnePointGlobal.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\obj\Debug\OnePointGlobal.pdb
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\jsinfotechs\jsinfotechs\obj\Debug\OnePointGlobal.csprojResolveAssemblyReference.cache
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\OnePointGlobal.dll.config
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\OnePointGlobal.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\OnePointGlobal.pdb
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\Microsoft.Owin.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\Microsoft.Owin.Security.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\Microsoft.Owin.Security.OAuth.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\Microsoft.Web.Infrastructure.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\Newtonsoft.Json.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\Owin.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\System.Net.Http.Formatting.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\System.Web.Helpers.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\System.Web.Http.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\System.Web.Http.Owin.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\System.Web.Http.WebHost.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\System.Web.Razor.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\System.Web.WebPages.Deployment.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\System.Web.WebPages.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\System.Web.WebPages.Razor.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\Microsoft.Owin.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\Microsoft.Owin.Security.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\Microsoft.Owin.Security.OAuth.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\Newtonsoft.Json.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\System.Net.Http.Formatting.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\System.Web.Helpers.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\System.Web.Http.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\System.Web.Http.Owin.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\System.Web.Http.WebHost.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\System.Web.Razor.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\System.Web.WebPages.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\System.Web.WebPages.Deployment.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\bin\System.Web.WebPages.Razor.xml
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\obj\Debug\OnePointGlobal.csprojResolveAssemblyReference.cache
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\obj\Debug\OnePointGlobal.dll
+H:\akshay bhagwat\joseph\OnePointGlobal_30-5-2018\OnePointGlobalMobileCX\jsinfotechs\obj\Debug\OnePointGlobal.pdb

@@ -1,0 +1,748 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Akshay\Desktop\onepointpublish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="alertify.js">
+      <publishTime>05/24/2018 06:04:07</publishTime>
+    </File>
+    <File Include="alertify.min.css">
+      <publishTime>05/24/2018 06:46:38</publishTime>
+    </File>
+    <File Include="assets/alertify.js">
+      <publishTime>05/30/2018 00:01:28</publishTime>
+    </File>
+    <File Include="assets/alertify.min.css">
+      <publishTime>05/30/2018 00:01:28</publishTime>
+    </File>
+    <File Include="assets/alertify/alertify.min.js">
+      <publishTime>05/24/2018 06:04:07</publishTime>
+    </File>
+    <File Include="assets/alertify/css/alertify.css">
+      <publishTime>05/24/2018 06:04:21</publishTime>
+    </File>
+    <File Include="assets/alertify/css/alertify.rtl.css">
+      <publishTime>05/24/2018 06:04:21</publishTime>
+    </File>
+    <File Include="assets/alertify/css/alertify.rtl.min.css">
+      <publishTime>05/24/2018 06:04:21</publishTime>
+    </File>
+    <File Include="assets/alertify/css/themes/bootstrap.css">
+      <publishTime>05/24/2018 06:04:35</publishTime>
+    </File>
+    <File Include="assets/alertify/css/themes/bootstrap.min.css">
+      <publishTime>05/24/2018 06:04:35</publishTime>
+    </File>
+    <File Include="assets/alertify/css/themes/bootstrap.rtl.css">
+      <publishTime>05/24/2018 06:04:36</publishTime>
+    </File>
+    <File Include="assets/alertify/css/themes/bootstrap.rtl.min.css">
+      <publishTime>05/24/2018 06:04:36</publishTime>
+    </File>
+    <File Include="assets/alertify/css/themes/default.css">
+      <publishTime>05/24/2018 06:04:36</publishTime>
+    </File>
+    <File Include="assets/alertify/css/themes/default.min.css">
+      <publishTime>05/24/2018 06:04:36</publishTime>
+    </File>
+    <File Include="assets/alertify/css/themes/default.rtl.css">
+      <publishTime>05/24/2018 06:04:36</publishTime>
+    </File>
+    <File Include="assets/alertify/css/themes/default.rtl.min.css">
+      <publishTime>05/24/2018 06:04:36</publishTime>
+    </File>
+    <File Include="assets/alertify/css/themes/semantic.css">
+      <publishTime>05/24/2018 06:04:36</publishTime>
+    </File>
+    <File Include="assets/alertify/css/themes/semantic.min.css">
+      <publishTime>05/24/2018 06:04:36</publishTime>
+    </File>
+    <File Include="assets/alertify/css/themes/semantic.rtl.css">
+      <publishTime>05/24/2018 06:04:36</publishTime>
+    </File>
+    <File Include="assets/alertify/css/themes/semantic.rtl.min.css">
+      <publishTime>05/24/2018 06:04:36</publishTime>
+    </File>
+    <File Include="assets/contactform.js">
+      <publishTime>05/30/2018 00:39:57</publishTime>
+    </File>
+    <File Include="assets/css/animate.css">
+      <publishTime>05/18/2018 09:58:04</publishTime>
+    </File>
+    <File Include="assets/css/aos.css">
+      <publishTime>05/18/2018 09:58:04</publishTime>
+    </File>
+    <File Include="assets/css/bootstrap.min.css">
+      <publishTime>05/18/2018 09:58:04</publishTime>
+    </File>
+    <File Include="assets/css/fontawesome-all.min.css">
+      <publishTime>05/18/2018 09:58:04</publishTime>
+    </File>
+    <File Include="assets/css/main.css">
+      <publishTime>05/18/2018 09:58:04</publishTime>
+    </File>
+    <File Include="assets/css/style.css">
+      <publishTime>05/18/2018 20:02:42</publishTime>
+    </File>
+    <File Include="assets/css/thirdparty/owl-carousel/owl.carousel.css">
+      <publishTime>05/18/2018 09:59:13</publishTime>
+    </File>
+    <File Include="assets/css/thirdparty/owl-carousel/owl.theme.default.css">
+      <publishTime>05/18/2018 09:59:13</publishTime>
+    </File>
+    <File Include="assets/css/thirdparty/owl-carousel/owl.theme.green.css">
+      <publishTime>05/18/2018 09:59:13</publishTime>
+    </File>
+    <File Include="assets/imgs/center.png">
+      <publishTime>05/18/2018 09:57:41</publishTime>
+    </File>
+    <File Include="assets/imgs/choice-surveys.png">
+      <publishTime>05/18/2018 09:57:42</publishTime>
+    </File>
+    <File Include="assets/imgs/client-logos.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/client1.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/client2.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/client3.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/client4.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/client5.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/client6.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/downarrow.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/favicon.ico">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/footer-bg.jpg">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/icon_integration.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/icon_mobilechoice.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/icon_SMS-Invite.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/icon_SMS_Surveys.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/integration.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/kfc-app.jpg">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/kfc-app.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/logo-mobile.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/logo-white .png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/logo-white.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/logo.jpg">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/logo.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/mobile.png">
+      <publishTime>05/18/2018 10:25:29</publishTime>
+    </File>
+    <File Include="assets/imgs/msg.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/Orange-trans-centred.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/overlay.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/screens.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/sms-invites.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/sms-survey.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/sms-surveys.png">
+      <publishTime>03/31/2018 22:20:16</publishTime>
+    </File>
+    <File Include="assets/imgs/sms.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/survey-app.png">
+      <publishTime>03/31/2018 22:20:16</publishTime>
+    </File>
+    <File Include="assets/imgs/top-banner-bg-old.jpg">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/top-banner-bg-overlay.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/top-banner-bg.jpg">
+      <publishTime>03/31/2018 22:20:16</publishTime>
+    </File>
+    <File Include="assets/imgs/top-banner-bg.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/imgs/top-banner.png">
+      <publishTime>05/18/2018 09:57:43</publishTime>
+    </File>
+    <File Include="assets/js/all.min.js">
+      <publishTime>05/18/2018 09:59:26</publishTime>
+    </File>
+    <File Include="assets/js/aos.js">
+      <publishTime>05/18/2018 09:59:25</publishTime>
+    </File>
+    <File Include="assets/js/bootstrap.min.js">
+      <publishTime>05/18/2018 09:59:25</publishTime>
+    </File>
+    <File Include="assets/js/custom.js">
+      <publishTime>05/18/2018 16:24:41</publishTime>
+    </File>
+    <File Include="assets/js/fontawesome-all.js">
+      <publishTime>05/18/2018 09:59:26</publishTime>
+    </File>
+    <File Include="assets/js/jquery-1.12.4.min.js">
+      <publishTime>05/18/2018 09:59:26</publishTime>
+    </File>
+    <File Include="assets/js/jquery.fitvids.js">
+      <publishTime>05/18/2018 09:59:26</publishTime>
+    </File>
+    <File Include="assets/js/jquery.unav.js">
+      <publishTime>05/18/2018 09:59:26</publishTime>
+    </File>
+    <File Include="assets/js/modernizr.min.js">
+      <publishTime>05/18/2018 09:59:26</publishTime>
+    </File>
+    <File Include="assets/mobilecx.js">
+      <publishTime>05/30/2018 00:54:04</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/css/animate.css">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/css/aos.css">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/css/bootstrap.min.css">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/css/fontawesome-all.min.css">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/css/main.css">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/css/style.css">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/css/thirdparty/owl-carousel/owl.carousel.css">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/css/thirdparty/owl-carousel/owl.theme.default.css">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/css/thirdparty/owl-carousel/owl.theme.green.css">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/imgs/choice-surveys.png">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/imgs/client1.png">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/imgs/client2.png">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/imgs/client3.png">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/imgs/client4.png">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/imgs/client5.png">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/imgs/client6.png">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/imgs/downarrow.png">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/imgs/favicon.ico">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/imgs/footer-bg.jpg">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/imgs/icon_integration.png">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/imgs/icon_mobilechoice.png">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/imgs/icon_SMS-Invite.png">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/imgs/icon_SMS_Surveys.png">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/imgs/integration.png">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/imgs/logo-mobile.png">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/imgs/logo.jpg">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/imgs/logo.png">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/imgs/sms-invites.png">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/imgs/sms-surveys.png">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/imgs/survey-app.png">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/imgs/top-banner-bg-overlay.png">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/imgs/top-banner-bg.jpg">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/imgs/top-banner-bg.png">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/js/all.min.js">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/js/aos.js">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/js/bootstrap.min.js">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/js/custom.js">
+      <publishTime>05/30/2018 00:02:24</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/js/fontawesome-all.js">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/js/jquery-1.12.4.min.js">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/js/jquery.fitvids.js">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/js/jquery.unav.js">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/assets/js/modernizr.min.js">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/src/js/theme.js">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/src/sass/abstractions/_base.scss">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/src/sass/abstractions/_fonts.scss">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/src/sass/abstractions/_mixins.scss">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/src/sass/abstractions/_typography.scss">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/src/sass/abstractions/_variable.scss">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/src/sass/components/_components.scss">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/src/sass/globals/_footer.scss">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/src/sass/globals/_forms.scss">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/src/sass/globals/_header.scss">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/src/sass/globals/_sidebar.scss">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/src/sass/layout/_home.scss">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/src/sass/style.scss">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/src/sass/thirdparty/owl-carousel/owl.carousel.scss">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/src/sass/thirdparty/owl-carousel/owl.theme.default.scss">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/src/sass/thirdparty/owl-carousel/owl.theme.green.scss">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/src/sass/thirdparty/owl-carousel/_animate.scss">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/src/sass/thirdparty/owl-carousel/_autoheight.scss">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/src/sass/thirdparty/owl-carousel/_core.scss">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/src/sass/thirdparty/owl-carousel/_lazyload.scss">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/src/sass/thirdparty/owl-carousel/_theme.default.scss">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/src/sass/thirdparty/owl-carousel/_theme.green.scss">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/src/sass/thirdparty/owl-carousel/_theme.scss">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mobilecx/src/sass/thirdparty/owl-carousel/_video.scss">
+      <publishTime>05/29/2018 22:53:51</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/css/animate.css">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/css/aos.css">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/css/bootstrap.min.css">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/css/desktop.ini">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/css/fontawesome-all.min.css">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/css/main.css">
+      <publishTime>05/29/2018 23:40:19</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/css/main.css.map">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/desktop.ini">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/fonts/desktop.ini">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/fonts/fa-brands-400.eot">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/fonts/fa-brands-400.svg">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/fonts/fa-brands-400.ttf">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/fonts/fa-brands-400.woff">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/fonts/fa-brands-400.woff2">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/fonts/fa-regular-400.eot">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/fonts/fa-regular-400.svg">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/fonts/fa-regular-400.ttf">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/fonts/fa-regular-400.woff">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/fonts/fa-regular-400.woff2">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/fonts/fa-solid-900.eot">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/fonts/fa-solid-900.svg">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/fonts/fa-solid-900.ttf">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/fonts/fa-solid-900.woff">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/fonts/fa-solid-900.woff2">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/imgs/client-logos.png">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/imgs/desktop.ini">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/imgs/downarrow.png">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/imgs/favicon.ico">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/imgs/footer-bg.jpg">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/imgs/logo-mobile.png">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/imgs/logo.png">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/imgs/onetoolkit-bg.png">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/imgs/online-mobile-web.jpg">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/imgs/online-mobile-web.png">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/imgs/sms-invites.jpg">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/imgs/sms-invites.png">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/imgs/sms-surveys.jpg">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/imgs/sms-surveys.png">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/imgs/survey-app.jpg">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/imgs/survey-app.png">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/imgs/top-banner-bg-overlay.png">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/imgs/top-banner-bg.jpg">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/imgs/top-banner-bg.png">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/js/aos.js">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/js/bootstrap.min.js">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/js/custom.js">
+      <publishTime>05/30/2018 00:47:31</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/js/desktop.ini">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/js/fontawesome-all.js">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/js/jquery-1.12.4.min.js">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/js/jquery.fitvids.js">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/js/jquery.unav.js">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="assets/mrtoolkit/assets/js/modernizr.min.js">
+      <publishTime>05/29/2018 22:53:40</publishTime>
+    </File>
+    <File Include="bin/jsinfotechs.dll">
+      <publishTime>04/06/2018 09:27:11</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>03/31/2018 22:19:43</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>03/31/2018 22:19:43</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>03/31/2018 22:43:19</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>03/31/2018 22:43:19</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>03/31/2018 22:47:13</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/31/2018 22:43:19</publishTime>
+    </File>
+    <File Include="bin/OnePointGlobal.dll">
+      <publishTime>05/30/2018 00:58:46</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>03/31/2018 22:19:43</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>03/31/2018 22:26:29</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>03/31/2018 22:47:13</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>03/31/2018 22:26:29</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Owin.dll">
+      <publishTime>03/31/2018 22:38:15</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>03/31/2018 22:26:29</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>03/31/2018 22:47:13</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>03/31/2018 22:47:13</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>03/31/2018 22:47:13</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>03/31/2018 22:47:14</publishTime>
+    </File>
+    <File Include="contact.aspx">
+      <publishTime>05/30/2018 00:02:37</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/06/2018 09:26:42</publishTime>
+    </File>
+    <File Include="mobilecx.aspx">
+      <publishTime>05/30/2018 00:48:59</publishTime>
+    </File>
+    <File Include="mrtoolkit.aspx">
+      <publishTime>05/30/2018 00:54:45</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/31/2018 22:47:23</publishTime>
+    </File>
+    <File Include="src/js/theme.js">
+      <publishTime>05/18/2018 10:04:33</publishTime>
+    </File>
+    <File Include="src/sass/abstractions/_base.scss">
+      <publishTime>05/18/2018 10:04:54</publishTime>
+    </File>
+    <File Include="src/sass/abstractions/_fonts.scss">
+      <publishTime>05/18/2018 10:04:54</publishTime>
+    </File>
+    <File Include="src/sass/abstractions/_mixins.scss">
+      <publishTime>05/18/2018 10:04:54</publishTime>
+    </File>
+    <File Include="src/sass/abstractions/_typography.scss">
+      <publishTime>05/18/2018 10:04:54</publishTime>
+    </File>
+    <File Include="src/sass/abstractions/_variable.scss">
+      <publishTime>05/18/2018 10:04:54</publishTime>
+    </File>
+    <File Include="src/sass/components/_components.scss">
+      <publishTime>05/18/2018 10:04:54</publishTime>
+    </File>
+    <File Include="src/sass/globals/_footer.scss">
+      <publishTime>05/18/2018 10:04:54</publishTime>
+    </File>
+    <File Include="src/sass/globals/_forms.scss">
+      <publishTime>05/18/2018 10:04:54</publishTime>
+    </File>
+    <File Include="src/sass/globals/_header.scss">
+      <publishTime>05/18/2018 10:04:54</publishTime>
+    </File>
+    <File Include="src/sass/globals/_sidebar.scss">
+      <publishTime>05/18/2018 10:04:54</publishTime>
+    </File>
+    <File Include="src/sass/layout/_home.scss">
+      <publishTime>05/18/2018 10:04:54</publishTime>
+    </File>
+    <File Include="src/sass/style.scss">
+      <publishTime>05/18/2018 10:04:54</publishTime>
+    </File>
+    <File Include="src/sass/thirdparty/owl-carousel/owl.carousel.scss">
+      <publishTime>05/18/2018 10:04:54</publishTime>
+    </File>
+    <File Include="src/sass/thirdparty/owl-carousel/owl.theme.default.scss">
+      <publishTime>05/18/2018 10:04:54</publishTime>
+    </File>
+    <File Include="src/sass/thirdparty/owl-carousel/owl.theme.green.scss">
+      <publishTime>05/18/2018 10:04:54</publishTime>
+    </File>
+    <File Include="src/sass/thirdparty/owl-carousel/_animate.scss">
+      <publishTime>05/18/2018 10:04:54</publishTime>
+    </File>
+    <File Include="src/sass/thirdparty/owl-carousel/_autoheight.scss">
+      <publishTime>05/18/2018 10:04:54</publishTime>
+    </File>
+    <File Include="src/sass/thirdparty/owl-carousel/_core.scss">
+      <publishTime>05/18/2018 10:04:54</publishTime>
+    </File>
+    <File Include="src/sass/thirdparty/owl-carousel/_lazyload.scss">
+      <publishTime>05/18/2018 10:04:54</publishTime>
+    </File>
+    <File Include="src/sass/thirdparty/owl-carousel/_theme.default.scss">
+      <publishTime>05/18/2018 10:04:54</publishTime>
+    </File>
+    <File Include="src/sass/thirdparty/owl-carousel/_theme.green.scss">
+      <publishTime>05/18/2018 10:04:54</publishTime>
+    </File>
+    <File Include="src/sass/thirdparty/owl-carousel/_theme.scss">
+      <publishTime>05/18/2018 10:04:54</publishTime>
+    </File>
+    <File Include="src/sass/thirdparty/owl-carousel/_video.scss">
+      <publishTime>05/18/2018 10:04:54</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/18/2018 19:53:12</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
